@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "API client for CampaignHQ.co"
   spec.homepage = "https://github.com/Campaign-HQ/campaign_hq-ruby"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.5.0"
+  # spec.required_ruby_version = ">= 2.5.0"
 
   # spec.metadata["allowed_push_host"] = "Set to your gem server 'https://example.com'"
 
